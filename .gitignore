@@ -26,7 +26,11 @@ Desktop.ini
 .DS_Store
 
 # Flutter / Dart
-bridge/build/
+bridge/build/android/
+bridge/build/ios/
+bridge/build/linux/
+bridge/build/macos/
+bridge/build/windows/
 bridge/.dart_tool/
 bridge/.packages
 bridge/.flutter-plugins
