@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Environment secrets
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Flutter / Dart
+bridge/build/
+bridge/.dart_tool/
+bridge/.packages
+bridge/.flutter-plugins
+bridge/.flutter-plugins-dependencies
+*.iml
+
+# Firebase
+firebase-debug.log
+.firebase/
+
+# Sentence Transformers model cache
+.cache/
+
+# Logs
+*.log
